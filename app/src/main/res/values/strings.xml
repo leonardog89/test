@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">Test</string>
+
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+    <string name="title_activity_aplicaciones">AplicacionesActivity</string>
+    <string name="title_activity_resumen">ResumenActivity</string>
+    <string name="not_response_server">Sin respuesta del servicio</string>
+    <string name="unknown_response">Respuesta desconocida</string>
+    <string name="alert">Se cargara la ultima vesion almacenada en el telefono</string>
+    <string name="whitout_conexion">Sin conexion</string>
+</resources>
